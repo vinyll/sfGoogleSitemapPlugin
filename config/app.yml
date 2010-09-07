@@ -1,0 +1,7 @@
+prod:
+  sf_google_sitemap:
+    strict_mode:       false  
+
+all:
+  sf_google_sitemap:
+    strict_mode:       false  # Whether to accept non strict valid urls

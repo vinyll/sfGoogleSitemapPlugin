@@ -1,0 +1,3 @@
+google_sitemap:
+  url:      /sitemap.:sf_format
+  param:    { module: sfGoogleSitemap, action: sitemap }
